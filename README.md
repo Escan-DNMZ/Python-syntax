@@ -74,7 +74,7 @@ while i < 5:
 Pythonda kullanıcıya girdi sormak için **input** kullanılır
 
 ```jsx
-**isim = input('isminiz: ')** //şeklinde kullanılır
+isim = input('isminiz: ') //şeklinde kullanılır
 ```
 
 ## Operatörler:
