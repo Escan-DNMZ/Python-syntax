@@ -18,7 +18,7 @@ def hello():
     print("Merhaba")
 hello() #hello yazıldığında merhaba yazacak
 ```
-
+// notlar tamamen Escan'a aittir
 ### Fonksiyona parametre gönderme
 
 ```python
@@ -59,7 +59,7 @@ sayilar = [1,2,3,4,5]
 for sayiin sayilar:
    print(sayi)
 ```
-
+// notlar tamamen Escan'a aittir
 ### While döngüsü
 
 ```python
