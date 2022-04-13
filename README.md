@@ -9,7 +9,7 @@ I hope it works for you
 
 Kod sonları **( : )** ile yapılır stringler **( "" )** ve **('')** ile belirtilir
 
-Pythonda **{ }** kullanılmaz. Pythonda boşluk önem arz eder
+Pythonda **{ }** kullanılmaz. Pythonda girinti önem arz eder
 
 ## Fonksiyonlar
 
@@ -56,7 +56,7 @@ print("a b den büyüktür")
 
 ```python
 sayilar = [1,2,3,4,5]
-for sayiin sayilar:
+for sayi in sayilar:
    print(sayi)
 ```
 // notlar tamamen Escan'a aittir
